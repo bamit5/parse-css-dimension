@@ -1,7 +1,7 @@
 {
-  "name": "parse-css-dimension",
-  "version": "1.1.0",
-  "description": "Parse a CSS dimension (i.e., number, length, percentage) into a JavaScript object.",
+  "name": "typed-parse-css-dimension",
+  "version": "1.0.0",
+  "description": "Parse a CSS dimension (i.e., number, length, percentage) into a JavaScript object. Temporary published version of jedmao/parse-css-dimension since the TypeScript version is unpublished.",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf coverage dist *.log css-list-helpers-*",
